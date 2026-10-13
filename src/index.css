@@ -1,0 +1,24 @@
+@import "tailwindcss";
+
+html {
+  min-width: 320px;
+  min-height: 100%;
+  background: #020617;
+  scrollbar-width: none;
+  -ms-overflow-style: none;
+}
+
+html::-webkit-scrollbar {
+  display: none;
+}
+
+body {
+  min-width: 320px;
+  min-height: 100vh;
+  margin: 0;
+}
+
+button,
+input {
+  font: inherit;
+}
