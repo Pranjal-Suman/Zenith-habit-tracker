@@ -9,14 +9,14 @@
       "type": "image/x-icon"
     },
     {
-      "src": "/activity-tracker.png",
+      "src": "activity-tracker.png",
       "type": "image/png",
       "sizes": "512x512",
       "purpose": "any"
     }
   ],
-  "start_url": "/",
-  "scope": "/",
+  "start_url": "./",
+  "scope": "./",
   "display": "standalone",
   "theme_color": "#09090b",
   "background_color": "#09090b",
